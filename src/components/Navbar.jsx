@@ -10,7 +10,7 @@ export default function Navbar() {
         <div className="nav-container">
           {/* Logo */}
           <div className="nav-logo">
-            <img src="/logo-ICA.png" alt="ICA Logo" className="logo-glow" />
+            <img src="/landingpage_ICA/logo-ICA.png" alt="ICA Logo" className="logo-glow" />
             <h4>Indonesian Cat Association</h4>
           </div>
 

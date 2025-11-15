@@ -44,7 +44,7 @@ export default function About() {
         </div>
 
         <div className="about-image reveal">
-          <img src="/ab-ICA.png" alt="ICA event" />
+          <img src="/landingpage_ICA/ab-ICA.png" alt="ICA event" />
         </div>
       </div>
     </section>

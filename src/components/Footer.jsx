@@ -4,7 +4,11 @@ export default function Footer() {
       <div className="footer-top">
         {/* Logo & Info */}
         <div className="footer-logo-info">
-          <img src="/logo-ICA.png" alt="ICA Logo" className="footer-logo" />
+          <img
+            src="/landingpage_ICA/logo-ICA.png"
+            alt="ICA Logo"
+            className="footer-logo"
+          />
           <p className="footer-about">
             Organisasi penyayang kucing di Indonesia yang dibentuk pada tanggal
             1 April 2003.

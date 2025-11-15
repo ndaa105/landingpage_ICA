@@ -274,7 +274,7 @@ h4 {
   position: relative;
   padding: 120px 0;
   overflow: hidden;
-  background-image: url("/paw.png");
+  background-image: url("/landingpage_ICA/paw.png");
   background-repeat: repeat;
   background-size: 60px;
 }
@@ -503,7 +503,7 @@ h4 {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("/paw.png");
+  background-image: url("/landingpage_ICA/paw.png");
   background-repeat: repeat;
   background-size: 60px;
   opacity: 0.06;
@@ -937,7 +937,7 @@ h4 {
   content: "";
   position: absolute;
   inset: 0;
-  background: url("/paw.png") repeat;
+  background: url("/landingpage_ICA/paw.png") repeat;
   background-size: 60px;
   opacity: 0.05;
   z-index: 0;
@@ -1252,7 +1252,7 @@ h4 {
   content: "";
   position: absolute;
   inset: 0;
-  background: url("/paw.png") repeat;
+  background: url("/landingpage_ICA/paw.png") repeat;
   background-size: 30px;
   opacity: 0.05;
   animation: pawMove 30s linear infinite;
@@ -1397,7 +1397,7 @@ h4 {
   content: "";
   position: absolute;
   inset: 0;
-  background: url("/paw.png") repeat;
+  background: url("/landingpage_ICA/paw.png") repeat;
   background-size: 60px;
   opacity: 0.05;
   animation: pawMove 30s linear infinite;

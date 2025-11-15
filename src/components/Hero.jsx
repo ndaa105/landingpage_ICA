@@ -40,7 +40,7 @@ export default function Hero({ openDaftar }) {
       id="hero"
       ref={heroRef}
       className="hero"
-      style={{ backgroundImage: "url('/ica1.jpg')" }}
+      style={{ backgroundImage: "url('/landingpage_ICA/ica1.jpg')" }}
     >
       <div className="hero-overlay"></div>
 

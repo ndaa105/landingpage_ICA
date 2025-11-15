@@ -12,7 +12,7 @@ export default function Pembicara() {
           {/* 1 */}
           <div className="speaker-card reveal">
             <div className="speaker-img-wrapper">
-              <img src="/wayan.jpg" alt="Wayan" />
+              <img src="/landingpage_ICA/wayan.jpg" alt="Wayan" />
             </div>
             <h3>DR. IR. I WAYAN KOSTER, M.M</h3>
             <p className="speaker-role">GUBERNUR BALI</p>
@@ -29,7 +29,7 @@ export default function Pembicara() {
           {/* 2 */}
           <div className="speaker-card reveal">
             <div className="speaker-img-wrapper">
-              <img src="/russy.jpg" alt="Russy" />
+              <img src="/landingpage_ICA/russy.jpg" alt="Russy" />
             </div>
             <h3>RUSSY IDROES, S.KOM. M.M.</h3>
             <p className="speaker-role">KETUA UMUM ICA</p>
@@ -47,7 +47,7 @@ export default function Pembicara() {
           {/* 3 */}
           <div className="speaker-card reveal">
             <div className="speaker-img-wrapper">
-              <img src="/munawaroh.jpg" alt="Munawaroh" />
+              <img src="/landingpage_ICA/munawaroh.jpg" alt="Munawaroh" />
             </div>
             <h3>DR. DRH. MUHAMMAD MUNAWAROH, M.M.</h3>
             <p className="speaker-role">KETUA UMUM PDHI</p>

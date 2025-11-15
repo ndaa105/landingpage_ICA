@@ -36,10 +36,10 @@ export default function Lokasi() {
         {/* CARD KANAN: 2 GAMBAR */}
         <div className="lokasi-side">
           <div className="lokasi-card reveal">
-            <img src="/harris1.jpg" alt="Harris 1" />
+            <img src="/landingpage_ICA/harris1.jpg" alt="Harris 1" />
           </div>
           <div className="lokasi-card reveal">
-            <img src="/harris2.webp" alt="Harris 2" />
+            <img src="/landingpage_ICA/harris2.webp" alt="Harris 2" />
           </div>
         </div>
       </div>
