@@ -921,7 +921,7 @@ h4 {
   position: relative;
 }
 
-.lokasi-section .section-title::after::before {
+.lokasi-section .section-title::before {
   content: "";
   position: absolute;
   right: -6px;
